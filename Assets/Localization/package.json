@@ -1,0 +1,17 @@
+{
+    "name": "com.ageofkids.localization",
+    "version": "1.0.0",
+    "displayName": "Localization",
+    "description": "Bu paket, Unity'de çok dilli destek için metin ve ses dosyalarını yönetir.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Bayram Ali Bayrak",
+        "email": "ali@kidstellar.com",
+        "url": "https://github.com/bayramalibayrak"
+    },
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kidstellar/LocalizationPackage.git"
+    }
+}
